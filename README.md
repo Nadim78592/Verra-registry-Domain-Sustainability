@@ -141,6 +141,6 @@ The analysis is designed for **ESG reporting, sustainability analysis, and clima
 
 ## 👤 Author
 
-**Nadim**
+**Md Nadim**
 Data Analyst | ESG Analytics | Power BI | SQL | Python
 📍 India
